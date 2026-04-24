@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<swid:software_identification_tag xsi:schemaLocation="http://standards.iso.org/iso/19770/-2/2009/schema.xsd http://standards.iso.org/iso/19770/-2/2009/schema.xsd" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:swid="http://standards.iso.org/iso/19770/-2/2009/schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fs="http://www.flexerasoftware.com/swid/2011/arp">
+	<!-- Mandatory elements -->
+	<swid:entitlement_required_indicator id="entitlement_required_indicator">false</swid:entitlement_required_indicator>
+	<swid:product_title id="product_title">Opera Stable 120.0.5543.161</swid:product_title>
+	<swid:product_version>
+		<swid:name id="version_name">120.0.5543.161</swid:name>
+		<swid:numeric>
+			<swid:major id="version_major">120</swid:major>
+			<swid:minor id="version_minor">0</swid:minor>
+			<swid:build id="version_build">5543</swid:build>
+			<swid:review id="version_review">161</swid:review>
+		</swid:numeric>
+	</swid:product_version>
+	<swid:software_creator>
+		<swid:name id="creator_name">Opera Software</swid:name>
+		<swid:regid id="creator_regid">Unknown</swid:regid>
+	</swid:software_creator>
+	<swid:software_licensor>
+		<swid:name id="licensor_name">Unknown</swid:name>
+		<swid:regid id="licensor_regid">Unknown</swid:regid>
+	</swid:software_licensor>
+	<swid:software_id>
+		<swid:unique_id id="unique_id">Opera 120.0.5543.161</swid:unique_id>
+		<swid:tag_creator_regid id="tag_creator_regid">regid.2009-06.com.flexerasoftware,AdminStudio</swid:tag_creator_regid>
+	</swid:software_id>
+	<swid:tag_creator>
+		<swid:name id="tag_name">Flexera Software LLC</swid:name>
+		<swid:regid id="tag_regid">regid.2009-06.com.flexerasoftware,AdminStudio</swid:regid>
+	</swid:tag_creator>
+
+	<!--Extended Information -->
+	<swid:extended_information xsi:schemaLocation="http://www.flexerasoftware.com/swid/2011/arp http://www.flexerasoftware.com/swid/2011/arp">
+		<fs:original_arp_guid id="original_arp_guid">Opera 120.0.5543.161</fs:original_arp_guid>
+		<fs:original_arp_publisher id="original_arp_publisher">Opera Software</fs:original_arp_publisher>
+		<fs:original_arp_display_name id="original_arp_display_name">Opera Stable 120.0.5543.161</fs:original_arp_display_name>
+		<fs:original_arp_display_version id="original_arp_display_version">120.0.5543.161</fs:original_arp_display_version>
+		<fs:current_arp_guid/>
+		<fs:current_arp_publisher/>
+		<fs:current_arp_display_name/>
+		<fs:current_arp_display_version/>
+	<fs:adminstudio_app_catalog_package_id>0</fs:adminstudio_app_catalog_package_id>
+		<fs:adminstudio_app_catalog_machine_name/>
+		<fs:adminstudio_app_catalog_db_name/>
+		<fs:adminstudio_app_catalog_guid/>
+	<fs:generate_tag>No</fs:generate_tag>
+	</swid:extended_information>
+</swid:software_identification_tag>
